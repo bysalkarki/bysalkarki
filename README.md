@@ -1,56 +1,39 @@
-# Hi, I'm <BISHAL KARKI>! 👋
+# Hi there, I'm [BISHAL KARKI] 👋
 
-I am a passionate student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
-
-![bysalkarki's Stats](https://github-readme-stats.vercel.app/api?username=bysalkarki&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+Welcome to my GitHub portfolio! I'm a passionate developer with expertise in PHP, Node.js, MySQL, Docker, Redis, and MongoDB. Here, you'll find a collection of my projects and contributions that showcase my skills and interests.
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Master's in Computer Science at IIT Kharagpur.
-- 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
-- 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
-- ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
+- 🔭 I’m currently working on [NEST.JS]
+- 🌱 I’m currently learning [NODE]
+- 👯 I’m looking to collaborate on open-source projects
+- 💬 Ask me about PHP, Node.js, MySQL, Docker, Redis, MongoDB
+- 📫 How to reach me: [bishalkarki201@gmail.com]
+- 😄 Pronouns: [He/His]
 
-## My Articles
-- [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
+## 🛠️ Skills
 
+- **Languages**: PHP, JavaScript (Node.js)
+- **Databases**: MySQL, MongoDB, Redis
+- **DevOps**: Docker
 
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+## 📈 GitHub Stats
 
-## 🌱 Currently Exploring
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=bysalkarki&show_icons=true&theme=radical)
 
-- 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Django, a powerful Python web framework.
-  - Diving into PostgreSQL for efficient and scalable database management.
+## 🏆 Top Languages
 
- ## 🏆 Achievements
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bysalkarki&layout=compact&theme=radical)
 
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
+## 📫 Contact Me
 
+- Email: [bishalkarki201@g]
+- LinkedIn: [your LinkedIn profile]
+- Twitter: [your Twitter handle]
+- Website: [your website]
 
-## 📬 Get in Touch
+Feel free to explore my repositories and reach out if you'd like to collaborate or discuss anything tech-related!
 
-- Connect with me on [Twitter](https://twitter.com/introvertedbot)
-- Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
+---
 
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
-
-
-
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*This README was generated with ❤️ by [Bishal Karki]*
